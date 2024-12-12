@@ -30,6 +30,27 @@ ${createCard("15/12", "Domingo",
     ${createCard("11/12", "Quarta-Feira", 
         createGame("atletico", "19:00", "bota",)
          + createGame("vasco", "20:00", "bahia" ))}
+         ${createCard("11/12", "Quarta-Feira", 
+            createGame("atletico", "19:00", "bota" ))}
+            ${createCard("15/12", "Domingo", 
+                createGame("corinthians", "16:00", "palmeiras" ))}
+                ${createCard("11/12", "Quarta-Feira", 
+                    createGame("atletico", "19:00", "bota",)
+                     + createGame("vasco", "20:00", "bahia" ))} 
+                     ${createCard("11/12", "Quarta-Feira", 
+                        createGame("atletico", "19:00", "bota" ))}
+                        ${createCard("15/12", "Domingo", 
+                            createGame("corinthians", "16:00", "palmeiras" ))}
+                            ${createCard("11/12", "Quarta-Feira", 
+                                createGame("atletico", "19:00", "bota",)
+                                 + createGame("vasco", "20:00", "bahia" ))}
+                                 ${createCard("11/12", "Quarta-Feira", 
+                                    createGame("atletico", "19:00", "bota" ))}
+                                    ${createCard("15/12", "Domingo", 
+                                        createGame("corinthians", "16:00", "palmeiras" ))}
+                                        ${createCard("11/12", "Quarta-Feira", 
+                                            createGame("atletico", "19:00", "bota",)
+                                             + createGame("vasco", "20:00", "bahia" ))}
 
 </main>
 `;
